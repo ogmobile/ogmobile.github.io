@@ -1,3 +1,5 @@
+# Privacy Policy
+
 Privacy Policy
 Anton Buiko built the Secret Scanner app as a Freemium app. This SERVICE is provided by Anton Buiko at no cost and is intended for use as is.
 
